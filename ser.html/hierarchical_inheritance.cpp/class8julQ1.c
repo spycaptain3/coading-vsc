@@ -1,0 +1,1 @@
+//1.WAP to illustrate an array of pointers to arrays and print the elements.
